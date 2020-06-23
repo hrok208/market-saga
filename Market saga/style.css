@@ -1,0 +1,64 @@
+
+body{
+margin: 0px;
+ ;
+}
+
+.upper{
+ background-color:#ccffff ;
+ width: 100%;
+ display: flex;
+ height: 450px;
+
+}
+.upper1{
+	background-color:#ccffff ;
+	width: 100%;
+
+}
+.mountain{
+position: relative;
+left: 400px;
+display: block;
+}
+.logo{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+    margin: 0 auto 0 auto;
+    width:10%;
+    padding:2px;
+     text-align: center;
+     display: flex;
+}
+.cloud{
+	position: relative;
+	left: 200px;
+	display:inline-block;
+}
+.cloud2{
+	position: relative;
+	left: 800px;
+	display: inline-flex;
+}
+
+.sea{
+	width:112%;
+	height: 90px;
+	position: relative;
+	right:890px;
+	top: 390px;
+	display: inline-flex;
+}
+.ship{
+	width: 20%;
+	height:20%;
+ position: relative;
+ right: 300px;
+ top: 380px;
+ display: inline-flex;
+}
+
+
+
+
+
